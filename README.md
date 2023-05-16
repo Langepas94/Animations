@@ -6,7 +6,6 @@
 - Lottie
 - UIBezierPath
 - CAAnimationGroup
-- Custom TabBar and hitTest, PointInside and etc.
 - UIview.animate, UIView.animateKeyframes, UIViewPropertyAnimator
 - UIPanGestureRecognizer, CATransform3DRotate
 - UIViewControllerAnimatedTransitioning
